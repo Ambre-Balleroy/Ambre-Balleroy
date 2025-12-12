@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Ambre-Balleroy/ambre-balleroy-personal-website",
+    "data-repo": "Ambre-Balleroy/Ambre-Balleroy",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
